@@ -5,9 +5,9 @@ Config = {
 	onlyActiveWhenFull = false,
 	Requirements = { -- A player must have the identifier to be allowed into the server
 		Discord = true,
-		Steam = true
+		Steam = false
 	},
-	WhitelistRequired = false, -- If this option is set to true, a player must have a role in Config.Rankings to be allowed into the server
+	WhitelistRequired = true, -- If this option is set to true, a player must have a role in Config.Rankings to be allowed into the server
 	Debug = false,
 	Webhook = '',
 	Displays = {
@@ -64,6 +64,6 @@ Config.Rankings = {
 	['880347052096233483'] = {5, "You are being connected [{QUEUE_NUM}/{QUEUE_MAX}]:"},
 	['880346832910311475'] = {4, "You are being connected [{QUEUE_NUM}/{QUEUE_MAX}]:"},
 	['880345609117270046'] = {3, "You are being connected [{QUEUE_NUM}/{QUEUE_MAX}]:"},
-	['880345146158362654'] = {2, "You are being connected)[{QUEUE_NUM}/{QUEUE_MAX}]:"},
-	['880344643986927616'] = {1, "You are being connected [{QUEUE_NUM}/{QUEUE_MAX}]:"},
+	['918223169133879316'] = {2, "You are being connected Kelidus [{QUEUE_NUM}/{QUEUE_MAX}]:"},
+	['918223126024835102'] = {1, "You are being connected Demon [{QUEUE_NUM}/{QUEUE_MAX}]:"},
 }
