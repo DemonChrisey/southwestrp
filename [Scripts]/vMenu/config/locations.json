@@ -1,0 +1,376 @@
+{
+  "teleports": [
+   {
+      "name": "LAPD | Mission Row",
+      "coordinates": {
+        "X": 413.506866,
+        "Y": -980.6319,
+        "Z": 29.43555,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 78.32094
+    },
+    {
+      "name": "LAPD | Vespucci Sub Station",
+      "coordinates": {
+        "X": -1110.10583,
+        "Y": -847.623352,
+        "Z": 19.3168049,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 118.5958
+    },
+    {
+      "name": "LAPD | La Mesa Substation",
+      "coordinates": {
+        "X": 816.5392,
+        "Y": -1289.3241,
+        "Z": 26.2888832,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 64.89958
+    },
+    {
+      "name": "LAPD | Rockford Substation",
+      "coordinates": {
+        "X": -559.758057,
+        "Y": -134.244308,
+        "Z": 38.1281624,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 73.36621
+    },
+    {
+      "name": "BCSO | Sandy Station",
+      "coordinates": {
+        "X": 1857.38367,
+        "Y": 3678.83569,
+        "Z": 33.7452431,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 209.732727
+    },
+    {
+      "name": "DHP * BCSO | Paleto Bay",
+      "coordinates": {
+        "X": -434.5307,
+        "Y": 6021.96631,
+        "Z": 31.4901028,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 332.059662
+    },
+    {
+      "name": "DHP | Headquarters",
+      "coordinates": {
+        "X": 2523.1875,
+        "Y": -385.2669,
+        "Z": 92.99283,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 269.13382
+    },
+    {
+      "name": "CIV | Paleto Bay",
+      "coordinates": {
+        "X": 149.30249,
+        "Y": 6592.538,
+        "Z": 31.8449039,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 265.649048
+    },
+    {
+      "name": "CIV | Sandy Shores",
+      "coordinates": {
+        "X": 1984.30164,
+        "Y": 3774.49585,
+        "Z": 32.18079,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 131.609955
+    },
+    {
+      "name": "CIV | Los Santos - Legion",
+      "coordinates": {
+        "X": 228.910538,
+        "Y": -953.4937,
+        "Z": 29.31851,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 179.906265
+    },
+    {
+      "name": "CIV | LS - Rockford",
+      "coordinates": {
+        "X": -1046.89661,
+        "Y": -217.925064,
+        "Z": 37.805687,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 102.645882
+    },
+    {
+      "name": "CIV | LS - LSIA",
+      "coordinates": {
+        "X": -1037.92944,
+        "Y": -2736.98145,
+        "Z": 20.1692944,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 332.629822
+    },
+    {
+      "name": "CIV | Sandy Shores Airfield",
+      "coordinates": {
+        "X": 1753.94763,
+        "Y": 3270.71875,
+        "Z": 41.20572,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 332.629822
+    },
+    {
+      "name": "CIV | McKenzie Airfield",
+      "coordinates": {
+        "X": 2148.173,
+        "Y": 4796.116,
+        "Z": 41.1361351,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "heading": 336.317627
+    }
+  ],
+  "blips": [
+    {
+      "name": "Police Station",
+      "coordinates": {
+        "X": 442.18,
+        "Y": -983.14,
+        "Z": 30.1,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 526,
+      "color": 0
+    },
+    {
+      "name": "Police Station",
+      "coordinates": {
+        "X": -1094.83,
+        "Y": -836.18,
+        "Z": 38.06,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 526,
+      "color": 0
+    },
+    {
+      "name": "Police Station",
+      "coordinates": {
+        "X": 825.62,
+        "Y": -1290.11,
+        "Z": 28.24,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 526,
+      "color": 0
+    },
+    {
+      "name": "Police Station",
+      "coordinates": {
+        "X": -560.62,
+        "Y": -133.38,
+        "Z": 38.08,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 526,
+      "color": 0
+    },
+    {
+      "name": "Police Station",
+      "coordinates": {
+        "X": 1853.82,
+        "Y": 3686.43,
+        "Z": 34.27,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 526,
+      "color": 0
+    },
+    {
+      "name": "Police Station",
+      "coordinates": {
+        "X": -445.8,
+        "Y": 6014.2,
+        "Z": 31.71,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 526,
+      "color": 0
+    },
+    {
+      "name": "Fort Zancudo",
+      "coordinates": {
+        "X": -2086.37,
+        "Y": 3080.96,
+        "Z": 32.81,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 419,
+      "color": 0
+
+    },
+    {
+      "name": "Prison",
+      "coordinates": {
+        "X": 1693.35,
+        "Y": 2605.47,
+        "Z": 45.56,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 58,
+      "color": 0
+    },
+    {
+      "name": "DHS * CIA Facility",
+      "coordinates": {
+        "X": 2506.0,
+        "Y": -382.86,
+        "Z": 94.12,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 60,
+      "color": 0
+    },
+    {
+      "name": "Vehicle Impound",
+      "coordinates": {
+        "X": 395.18,
+        "Y": -1615.73,
+        "Z": 29.29,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 225,
+      "color": 0
+    },
+    {
+      "name": "Hospital",
+      "coordinates": {
+        "X": 306.58,
+        "Y": -1435.32,
+        "Z": 29.8,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 61,
+      "color": 0
+    },
+    {
+      "name": "Hospital",
+      "coordinates": {
+        "X": 305.0,
+        "Y": -583.0,
+        "Z": 50.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 61,
+      "color": 0
+    },
+    {
+      "name": "Hospital",
+      "coordinates": {
+        "X": -463.67,
+        "Y": -338.42,
+        "Z": 34.5,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 61,
+      "color": 0
+    },
+    {
+      "name": "Hospital",
+      "coordinates": {
+        "X": 1828.13,
+        "Y": 3667.26,
+        "Z": 34.28,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 61,
+      "color": 0
+    },
+    {
+      "name": "Harbor",
+      "coordinates": {
+        "X": -854.76,
+        "Y": -1424.97,
+        "Z": 5.0,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 356,
+      "color": 0
+    },
+    {
+      "name": "Del Perro Pier",
+      "coordinates": {
+        "X": -1843.59,
+        "Y": -1219.52,
+        "Z": 12.81,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 266,
+      "color": 0
+    },
+    {
+      "name": "Simeon's Showroom",
+      "coordinates": {
+        "X": -47.1617,
+        "Y": -1115.333,
+        "Z": 26.5,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 369,
+      "color": 0
+    },
+    {
+      "name": "FIB Building",
+      "coordinates": {
+        "X": 105.4557,
+        "Y": -745.4835,
+        "Z": 44.7548,
+        "IsNormalized": false,
+        "IsZero": false
+      },
+      "spriteID": 475,
+      "color": 0
+  ]
+}

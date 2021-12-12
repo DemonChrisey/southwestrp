@@ -1,0 +1,43 @@
+Config = {
+	Guild_ID = '878927432546131998',
+	Bot_Token = 'ODgxOTczNjQ3NDgzNDkwMzA0.YS0n9w.Vq33-ct8QQqlEj49eqdmg2y9Sv4',
+	RoleList = {
+	['Member'] = 0,
+	['Owner'] = 880344643986927616,
+	['Co. Owner'] = 880345146158362654,
+	['HOM'] = 880345609117270046,
+	['Management'] = 880346832910311475,
+	['Pre Management'] = 880347052096233483,
+	['Event Coordinator'] = 880347407383158844,
+	['Head Admin'] = 880349085658411098,
+	['Senior Admin'] = 880349233847369808,
+	['Developer'] = 880929715169419326,
+	['Admin'] = 880349566157869076,
+	['Head Mod'] = 880349684269481995,
+	['Senior Mod'] = 880349828943593502,
+	['Mod'] = 880349913483988992,
+	['Trial Mod'] = 880349978940276766,
+	['Support Team'] = 880351133372121189,
+	['Donator'] = 880351780465156127,
+	['FBI'] = 880354075118555206,
+	['DEA'] = 880354296732999700,
+	['U.S Marshals'] = 880354474202390528,
+	['U.S Air Force'] = 880354554854662184,
+	['Denver Highway Patrol'] = 880354704058634291,
+	['Blaine County Sheriffs'] = 880354782143983616,
+	['Denver Police Department'] = 880354855846305832,
+	['Colorado Fire'] = 880356947369558046,
+	['Verified Civillian'] = 880356502815252520,
+	['FAA'] = 880356875156193280,
+	},
+}
+
+Config.Splash = {
+	Header_IMG = 'https://forum.cfx.re/uploads/default/original/3X/a/6/a6ad03c9fb60fa7888424e7c9389402846107c7e.png',
+	Enabled = false,
+	Wait = 10, -- How many seconds should splash page be shown for? (Max is 12)
+	Heading1 = "Welcome to [ServerName]",
+	Heading2 = "Make sure to join our Discord and check out our website!",
+	Discord_Link = 'https://discord.gg',
+	Website_Link = 'https://badger.store',
+}
