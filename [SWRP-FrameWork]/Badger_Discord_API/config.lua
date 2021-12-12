@@ -1,6 +1,6 @@
 Config = {
 	Guild_ID = '918223081242243084',
-	Bot_Token = 'OTE5NTcyMTAzODUyODc5OTEz.YbXwQg.bM0K6iTkaOJWHFJcYcfZFw61DBc',
+	Bot_Token = 'OTE5NTcyMTAzODUyODc5OTEz.YbXwQg.7ThPG1vQFRmoEWP3NsOvo9tWdvE',
 	RoleList = {
 	['Member'] = 918315189881942036,
 	['Owner'] = 880344643986927616,
