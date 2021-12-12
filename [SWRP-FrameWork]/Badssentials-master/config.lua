@@ -1,15 +1,15 @@
 Config = {
 	Prefix = '^5[^1Badssentials^5] ^3',
-	AnnouncementHeader = '~b~[~p~NoirRP Announcement~b~]',
+	AnnouncementHeader = '~b~[~p~SWRP Announcement~b~]',
 	AnnouncementPlacement = .3, -- Set to 0 for top or .3 for middle of screen
 	AnnounceDisplayTime = 15, -- How many seconds should announcements display for?
 	Revive_Delay = 60, -- Set to 0 to disable 
 	Respawn_Delay = 30, -- Set to 0 to disable 
 	Displays = {
-		['Noir RP Server | Discord'] = {
+		['Southwest Roleplay | Discord'] = {
 			x = .800,
 			y = .01,
-			display = "~g~Noir RP ~w~| discord.gg/BB68c3d",
+			display = "~g~SWRP ~w~| discord.gg/BB68c3d",
 			textScale = .55,
 			enabled = true
 		},

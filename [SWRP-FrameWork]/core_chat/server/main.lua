@@ -3,7 +3,7 @@ AddEventHandler('playerConnecting', function(name, setCallback, deferrals)
   local s = source
 	deferrals.update("Checking Whitelist")
 	Citizen.Wait(100)
-	if not exports.discord_perms:IsRolePresent(s, "Whitelisted") then
+	if not exports.discord_perms:IsRolePresent(s, "SWRP | Member") then
 		deferrals.done("This server is whitelisted but you can apply @ https://discord.gg/UaUNjCuwAV")
 	else
     deferrals.done()

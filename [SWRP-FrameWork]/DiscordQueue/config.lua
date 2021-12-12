@@ -5,7 +5,7 @@ Config = {
 	onlyActiveWhenFull = false,
 	Requirements = { -- A player must have the identifier to be allowed into the server
 		Discord = true,
-		Steam = false
+		Steam = true
 	},
 	WhitelistRequired = false, -- If this option is set to true, a player must have a role in Config.Rankings to be allowed into the server
 	Debug = false,

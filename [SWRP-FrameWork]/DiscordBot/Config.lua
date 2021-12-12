@@ -1,16 +1,16 @@
 -- Discord Webhook Links
 -- Need help setting it up? (https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 
-DiscordWebhookSystemInfos = 'https://discord.com/api/webhooks/883444049024016485/UEK5uSTyNKeTH0AVlVv28i3wMJWthYKMGa3-a8uTLTinKiTvvLgts8LDdMQoHFIjmzUO' -- Replace "WEBHOOK_HERE" Or Error
-DiscordWebhookKillinglogs = 'https://discord.com/api/webhooks/883443772485169252/GPucg-zDuS4lUkM-0wJZ3AlajuT_K7MfNqRF8y5jC6UZO5MaQpxxaCOVSeLHJy6xj9et' -- Replace "WEBHOOK_HERE" Or Error
-DiscordWebhookChat = 'https://discord.com/api/webhooks/883443651265576970/XPSsapVOuQeqWTZB5BlDXSOrUJSPXXB4fKYWO0I8UbeHDndgvx_E4x8naI7ldqnF461k' -- Replace "WEBHOOK_HERE" Or Error
+DiscordWebhookSystemInfos = 'https://discord.com/api/webhooks/919582163324772403/pcjOmjITdJ58k9J-Gtrj-kiKRSKMgumdp_uLrNKYjV5knY87vfTItR_Wq-PP8kKyOK6z' -- Replace "WEBHOOK_HERE" Or Error
+DiscordWebhookKillinglogs = 'https://discord.com/api/webhooks/919582328244817970/VFaUlJR1tM3cXWrDFc5vb6PbvqAx_DKB1LvDQhci74P2ZZ6zMGaQAzbuic5fBPJBvbr1' -- Replace "WEBHOOK_HERE" Or Error
+DiscordWebhookChat = 'https://discord.com/api/webhooks/919582456275951636/tlWadItW6Um0lDU5bdGjmo8Cmoas_O1R_3ecV6yhcAg-oWLexwYZb8egepwCJbHK9wo8' -- Replace "WEBHOOK_HERE" Or Error
 
 -- Bot/Client Avatar and UserName
 SystemAvatar = 'https://cdn.discordapp.com/attachments/708818085196333077/709025758495899668/departmentofsafety.png'
 
 UserAvatar = 'https://cdn.discordapp.com/attachments/708818085196333077/709090779087372390/Untitled-2.png'
 
-SystemName = 'CODOJRP Server Status' -- Change this to a name of your choice!
+SystemName = 'SWRP Server Status' -- Change this to a name of your choice!
 
 -- How To Format and Setup Special Commands
 --[[ Special Commands formatting
@@ -34,7 +34,7 @@ SpecialCommands = {
 				    {'/me', '**[ME]:**'},
 				    {'/fix', '**[FIX]:**'},
 				    {'/dv', '**[DV]:**'},
-				    {'/twotter', '**[TWOTTER] {USERID_NEEDED_HERE]:**'},
+				    {'/twitter', '**[TWiTTER] {USERID_NEEDED_HERE]:**'},
 				    {'/dispatch', '**[DISPATCH]:**'},
 				   {'/911', '**[911]: (CALLER ID: [ USERNAME_NEEDED_HERE | USERID_NEEDED_HERE ])**'},
 				  }
