@@ -10,7 +10,7 @@ showLicenses = false
 RedM = false
 
 settings = {
-	button = "none",
+	button = "170",
 	forceShowGUIButtons = false,
 }
 
@@ -115,7 +115,7 @@ Citizen.CreateThread(function()
 		menuWidth = GetResourceKvpInt("ea_menuwidth")
 		menuOrientation = handleOrientation(GetResourceKvpString("ea_menuorientation"))
 	end 
-	local subtitle = "~b~CODOJRP EasyAdmin"
+	local subtitle = "~b~SWRP EasyAdmin"
 	if settings.updateAvailable then
 		subtitle = "~g~UPDATE "..settings.updateAvailable.." AVAILABLE!"
 	elseif settings.alternativeTitle then
